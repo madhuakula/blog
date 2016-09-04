@@ -1,3 +1,2 @@
 User-agent: *
-Sitemap: http://blog.madhuakula.com/sitemap.xml
-Disallow: /ghost/
+Allow: /
